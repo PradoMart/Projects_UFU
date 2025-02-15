@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projects_UFU.iml" filepath="$PROJECT_DIR$/.idea/Projects_UFU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/atv_pratica_2/atv_pratica_2.iml" filepath="$PROJECT_DIR$/POO/atv_pratica_2/atv_pratica_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/first_class/first_class.iml" filepath="$PROJECT_DIR$/POO/first_class/first_class.iml" />
+    </modules>
+  </component>
+</project>
