@@ -19,10 +19,10 @@ public class Computador4 {
     }
 
     public void setHd(int hd) {
-        if(ram > 0){
+        if(hd > 0){
             this.hd = hd;
         }else {
-            System.out.println("ERRO - HD inválida!");
+            System.out.println("ERRO - HD inválido!");
         }
     }
 
